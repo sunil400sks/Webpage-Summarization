@@ -1,0 +1,1 @@
+web: gunicorn textsummarizer 1.0:app
